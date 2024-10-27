@@ -37,10 +37,11 @@ Over the past five years, I have dedicated myself to mastering various programmi
 
 Today, I specialize in building robust, web-based full-stack applications using Next.js, FastAPI, and PostgreSQL, whether as monolithic architectures or microservices-based backends.
 
-➤ 🌱 Currently learning **advanced Kubernetes** and **cloud architectures**
-➤ 🔭 Working on an **open-source, scalable authentication microservice with FastAPI, Redis, and PostgreSQL (coming soon!)**
-➤ 💬 Ask me anything about **Next.js, FastAPI, and structuring code!**
-➤ 🧩 Fun fact: **I started programming with C++ in engineering school, it still feels surreal!**
+➤ 🌱 Currently learning **advanced Kubernetes** and **cloud architectures**<br />
+
+➤ 🔭 Working on an **open-source, scalable authentication microservice with FastAPI, Redis, and PostgreSQL (coming soon!)**<br />
+➤ 💬 Ask me anything about **Next.js, FastAPI, and structuring code!**<br />
+➤ 🧩 Fun fact: **I started programming with C++ in engineering school, it still feels surreal!**<br />
 
 ---
 
