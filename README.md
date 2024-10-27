@@ -1,7 +1,7 @@
 <!-- Profile Header with Typing Effect -->
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=160&pause=1000&color=6A00FF&center=true&vCenter=true&width=1000&height=800&lines=Welcome+%F0%9F%91%8B;Indie+hacker+%26+full-stack+developer;DevOps+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=160&pause=1000&color=6A00FF&center=true&vCenter=true&width=1000&height=200&lines=Welcome+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Social Media Links -->
