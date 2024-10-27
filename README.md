@@ -1,48 +1,50 @@
 <!-- Profile Header with Typing Effect -->
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=160&pause=1000&color=6A00FF&center=true&vCenter=true&width=1000&height=200&lines=Welcome+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tourney&weight=200&size=160&duration=2500&pause=5000&color=6A00FF&center=true&vCenter=true&width=1000&height=200&lines=Welcome+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Social Media Links -->
 
 <p>
-  <a href="https://discord.gg/yourdiscordlink" target="_blank">
+  <a href="https://discord.gg/R92FSa66" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://twitter.com/hellkaiser45" target="_blank">
+  <a href="https://x.com/HellKaiser45" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:hellkaiser45@example.com">
+  <a href="mailto:julien.delage0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/hellkaiser45" target="_blank">
+  <a href="https://www.linkedin.com/in/julien-delage-5a251a296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.twitch.tv/hellkaiser45" target="_blank">
+  <a href="https://www.twitch.tv/julienjde" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://www.youtube.com/c/hellkaiser45" target="_blank">
+  <a href="https://www.youtube.com/@julienJDE" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 <!-- Introduction and About Me -->
 
-## 👋 About Me
+## About Me
 
-Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for building dynamic, efficient, and scalable applications. With a strong background in both front-end and back-end development, I specialize in creating seamless digital experiences and am constantly exploring new technologies.
+Hello! My name is Julien. I am a graduate mechatronics engineer from [Polytech Orléans](https://www.univ-orleans.fr/fr/polytech). With a strong project management background, I have comprehensive expertise in full product design, including industrial and embedded system design for production equipment and mobile robots. Initially, I focused on commercial robot programming (Universal Robots, FANUC, MiR) and industrial PLC programming.
 
-- 🌱 Currently learning **Kubernetes** and **Advanced TypeScript**
-- 🔭 Working on **[Project name or current focus, e.g., a FastAPI microservice]**
-- 💬 Ask me about **React, Next.js, Docker, and more!**
-- 🧩 Fun fact: **I'm a huge Linux enthusiast and love customizing my development environment**
+Over the past five years, I have dedicated myself to mastering various programming languages, frameworks, and architectures, covering everything from design to deployment. This includes hosting, maintenance, and complete CI/CD pipelines. I'm quite proud of the progress I've made! 😊
+
+Today, I specialize in building robust, web-based full-stack applications using Next.js, FastAPI, and PostgreSQL, whether as monolithic architectures or microservices-based backends.
+
+➤ 🌱 Currently learning **advanced Kubernetes** and **cloud architectures**
+➤ 🔭 Working on an **open-source, scalable authentication microservice with FastAPI, Redis, and PostgreSQL (coming soon!)**
+➤ 💬 Ask me anything about **Next.js, FastAPI, and structuring code!**
+➤ 🧩 Fun fact: **I started programming with C++ in engineering school, it still feels surreal!**
 
 ---
 
-<!-- Tech Stack and Skill Icons -->
-
-### 🛠️ Languages and Frameworks
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -54,7 +56,7 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
   <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
-### 📚 Libraries and Frameworks
+### Libraries and Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -66,7 +68,7 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-### 🛠️ DevOps and Cloud
+### DevOps and Cloud
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -75,14 +77,14 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 💻 Databases and Backend
+### Databases and Backend
 
 <p>
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### 💡 Data Science and Analytics
+### Data Science and Analytics
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -91,7 +93,7 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
   <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
-### 🛠️ Design Tools
+### Design Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -99,7 +101,7 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 💼 Platforms and Tools
+### Platforms and Tools
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -107,7 +109,7 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
   <img src="https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
 </p>
 
-### 💰 Finance and Payments
+### Finance and Payments
 
 <p>
   <img src="https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
@@ -117,66 +119,3 @@ Hello! I'm HellKaiser45, a passionate full-stack developer with a knack for buil
 </p>
 
 ---
-
-<!-- GitHub Stats Section -->
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HellKaiser45&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HellKaiser45&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellKaiser45&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<!-- GitHub Trophies -->
-
-### 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=HellKaiser45&theme=darkhub" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- Visitor Counter -->
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HellKaiser45&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
-
----
-
-<!-- Featured Repositories Section -->
-
-### 🌟 Featured Projects
-
-- [**My FastAPI Microservice**](https://github.com/HellKaiser45/fastapi-microservice) - An efficient microservice architecture built with FastAPI.
-- [**Portfolio with Next.js**](https://github.com/HellKaiser45/nextjs-portfolio) - A responsive portfolio built with Next.js and Tailwind CSS.
-- [**Kubernetes Deployment Guide**](https://github.com/HellKaiser45/k8s-deployment-guide) - A step-by-step guide on deploying applications with Kubernetes.
-
----
-
-<!-- Dynamic Section with GitHub Actions -->
-
-### 🔄 Dynamic GitHub Activity Feed
-
-> This section is updated daily with GitHub Actions.
-
-- 📌 **Latest Update**: Data refreshed daily.
-- 📰 **Latest Blog Post**: [Your Blog Title](https://yourblog.com) - Brief summary.
-
----
-
-<!-- Contribution Section -->
-
-## 🤝 Contribution Guidelines
-
-Contributions are always welcome! Feel free to check out [code of conduct](link-to-code-of-conduct) and [contribution guidelines](link-to-contribution-guidelines) if you'd like to collaborate. Just open an issue or submit a pull request!
-
----
-
-<!-- Footer with Contact Info -->
-
-<p>
-  Made with ❤️ by HellKaiser45. Connect with me on [LinkedIn](https://www.linkedin.com/in/hellkaiser45) or check out my work here on GitHub.
-</p>
